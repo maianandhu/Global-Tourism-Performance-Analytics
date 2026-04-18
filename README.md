@@ -22,7 +22,7 @@ This repository contains a deep-dive analysis into the global tourism industry. 
 ## 🗂️ Project Structure
 * `Tourism_Analytics_Report.docx`: Detailed textual analysis and strategic recommendations.
 * `Tourism_Analytics.pptx`: Visual dashboard and slide deck summarizing key findings.
-* Data/: [Dashboard](global_tourism_travel_patterns_10k.csv)
+* Data/ global_tourism_travel_patterns_10k.csv
 
 ## 📈 Key Insights
 ### 1. Market Resilience
