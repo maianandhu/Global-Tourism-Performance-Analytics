@@ -5,6 +5,9 @@
 ![Data](https://img.shields.io/badge/Data-10k_Records-orange)
 
 A comprehensive performance report and data visualization project analyzing global travel patterns, revenue metrics, and traveler demographics over a six-year period.
+### Dashboard
+
+![Dashboard](Images/Dashboard.png)
 
 ## 📊 Project Overview
 This repository contains a deep-dive analysis into the global tourism industry. Using a dataset of **10,000 traveler records** and **35 data dimensions**, the project tracks industry resilience through the COVID-19 pandemic and identifies the emerging trends of 2026.
